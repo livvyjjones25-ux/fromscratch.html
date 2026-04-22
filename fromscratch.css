@@ -19,11 +19,6 @@ body {
 }
 
 /* Header */
-.header {
-    text-align: center;
-    padding: 30px;
-    background-color: #933B5B;
-}
 
 .header {
     text-align: center;
@@ -70,7 +65,7 @@ body {
     margin-top: 40px;   /* pushes image away from header */
     margin-bottom: 40px;
 }
-*/Six of Crows*/
+/*Six of Crows*/
 .image-row {
     display: flex;
     justify-content: center;
